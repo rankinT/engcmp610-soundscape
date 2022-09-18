@@ -3,10 +3,9 @@ For this soundscape, I originally envisioned it to be sounds of studying that wo
 
 But then as I worked on this project during vampire hours, I got inspired to make it a spooky stormy soundscape where the background sounds give you the feeling of when you think you’re alone in the house at night, but then you hear some weird sounds that make you doubt it… 
 
------
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#alone---soundscape-in-a-storm)
 - [Blog 4 - Preview](#blog-4---preview)
 - [Full Draft / final-for-now](#full-draft--final-for-now)
   - [Environment Sounds](#environment-sounds)
