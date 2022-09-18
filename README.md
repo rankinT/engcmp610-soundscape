@@ -34,7 +34,6 @@ I did some volume control on the main BGM and did some recordings of study sound
 </br>
 
 # Full Draft / final-for-now
-## Downloads
 - [Audacity file](https://drive.google.com/file/d/1YXREZ6X1JnniS268k9_oeG-SeQrncX-6/view?usp=sharing)
 - [mp3 file](https://drive.google.com/file/d/1WUF86JR05XemBaDDt4LMnuhUf23ULcAn/view?usp=sharing) 
 
