@@ -27,9 +27,7 @@ But then as I worked on this project during vampire hours, I got inspired to mak
 I did some volume control on the main BGM and did some recordings of study sounds (pencil, paper, keyboard). I also wanted to switch into a spooky vibe so I'll be using background sounds to play with the BGM being the representation of mental
 
 - [Audacity file](https://drive.google.com/file/d/1uUW0EOBiyscwP5EqqjvmMK5A8fHQtjD5/view?usp=sharing)
-
 - [mp3 file](https://drive.google.com/file/d/1jwERcTOgYPd_Q0GSfZ93YNGY3Dwd2ykX/view?usp=sharing)
-
 
 </br>
 
@@ -38,14 +36,12 @@ I did some volume control on the main BGM and did some recordings of study sound
 - [mp3 file](https://drive.google.com/file/d/1WUF86JR05XemBaDDt4LMnuhUf23ULcAn/view?usp=sharing) 
 
 ## Environment Sounds
-
 I decided to omit the studying sounds and wanted to go for a narrative dynamic between foreground/background music and weather. And in this project, I wanted to avoid sample sounds as much as possible so aside from the music, I used a mix of my own recorded sounds to get the weather effects.
 ![](/assets/imgs/now-ambience.png)
 
 -------
 
 ## Glitches and Static
-
 As part of the narrative that I want this soundscape to follow, I wanted to interrupt the music that comforts you during storm. I was able to get the glitch effect by using the distortion, phaser, and reverse effects.
 ![](/assets/imgs/glitch.png)
 
