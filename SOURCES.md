@@ -6,8 +6,9 @@
   
 - Creator: [Sharou](https://www.youtube.com/c/Sharou/about)
   
-- [DOVA-SYNDROME License](https://dova-s.jp/_contents/license/) -> [English Translation](https://dova--s-jp.translate.goog/_contents/license/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Source Download](https://dova-s.jp/bgm/play13513.html)
 
-- [Download](https://dova-s.jp/bgm/play13513.html)
+- [DOVA-SYNDROME License](https://dova-s.jp/_contents/license/) 
+    - [English Translation](https://dova--s-jp.translate.goog/_contents/license/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 

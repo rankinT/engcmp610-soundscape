@@ -11,6 +11,7 @@ But then as I worked on this project during vampire hours, I got inspired to mak
   - [Environment Sounds](#environment-sounds)
   - [Glitches and Static](#glitches-and-static)
   - [How to End](#how-to-end)
+- [Reflection](#reflection)
 
 -----
 
@@ -41,3 +42,7 @@ As part of the narrative that I want this soundscape to follow, I wanted to inte
 ### How to End
 To end the narrative in my soundscape, I felt like having the irony of the storm become your comforting point a opposed to the music would be a nice twist. In the beginning the music was your anchor, but the end realization is that it was the storm all along. So I silenced the music to leave you alone with the storm and did a fade out for each track. Like you could imagine closing your eyes and being all zen-zone with the softer storm sounds. 
 ![](/assets/imgs/ending.png)
+
+--------------
+
+## Reflection
