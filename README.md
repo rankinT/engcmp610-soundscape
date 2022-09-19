@@ -1,4 +1,4 @@
-# Alone Together - Soundscape in a Storm 
+# Soundscape in a Storm 
 For this soundscape, I originally envisioned it to be sounds of studying that would be occasionally interrupted by background sounds. Those background sounds would be a sort of vehicle for an abstract storyline that culminates in some kind of twist ending. So, something like small background bumps on the wall that would eventually lead to a house explosion after they get ignored for a period of time.
 
 But then as I worked on this project during vampire hours, I got inspired to make it a spooky stormy soundscape where the background sounds give you the feeling of when you think you’re alone in the house at night, but then you hear some weird sounds that make you doubt it… 
