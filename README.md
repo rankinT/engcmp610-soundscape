@@ -14,7 +14,6 @@ Then as I worked on this project during the night, I got inspired to make it a s
   - [Glitches and Static](#glitches-and-static)
   - [How to End](#how-to-end)
 - [Reflection](#reflection)
-- [Creator's Statement](#creators-statement)
 
 -----
 
