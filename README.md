@@ -47,10 +47,11 @@ To end the narrative in my soundscape, I felt like having the irony of the storm
 
 --------------
 ## Reflection
-Trying to only use my own recorded sounds proved to be a fun challenge when I couldn't find the right situations to record in real life. The biggest problem was trying to record the weather sounds of rain and thunder. To improvise, I recorded my shower and distorted air blowing onto the microphone to attempt to emulate the weather.
+Trying to only use my own recorded sounds proved to be a fun challenge when I couldn't find the right situations to record in real life. The biggest problem was trying to record the weather sounds of rain and thunder. To improvise, I recorded my shower and distorted air blowing onto the microphone to attempt to emulate the weather. I feel that the fake thunder was pretty convincing because I successfully got close to the rumbling crashing sound of thunder.
+
 ![air blow tracks](/assets/imgs/air-thunder.png)
 
-To get the weather to mess with the music, I used a big thunder sound that would be clip on the track to make the (real and soundscape) listener uncomfortable. Then I also added distortion, phaser, and reverse effects on the music to make it sound like the music glitched out from the close lightning strike. I also recorded myself blowing into the microphone through my shirt and added distortion to get the sound of static. I found that using the envelope tool to make sharp rises and drops in volume, combined with the fade-out effect was very helpful in controlling the volume at specific timings.
+To get the weather to mess with the music, I used a big thunder sound that would be clip on the track to make the (real and soundscape) listener uncomfortable. Then I also added distortion, phaser, and reverse effects on the music to make it sound like the music glitched out from the close lightning strike. I also recorded myself blowing into the microphone through my shirt and added distortion to get the sound of static. The warped music and occasional static definitely achieved that glitch feeling that I was going for. I found that using the envelope tool to make sharp rises and drops in volume, combined with the fade-out effect was very helpful in controlling the volume at specific timings. The more quiet ending and silencing of tracks helped me get the serene zen feeling I was going for.
 
 ![music glitching](/assets/imgs/tension.png)
 
